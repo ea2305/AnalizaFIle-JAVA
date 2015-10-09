@@ -9,7 +9,7 @@ import java.io.*;
 * @author Elihu Alejandro Cruz Albores
 * @author Luis Fernando Herrera Pimentel
 * @author Carlos Maximiliano Ortiz Escobar
-* @version 1.5
+* @version 1.6
 */
 
 public class AnalizaFile{
